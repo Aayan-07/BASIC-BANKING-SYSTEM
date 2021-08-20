@@ -14,7 +14,7 @@ Create a simple dynamic website which has the following specs.</br>
 -  No Login Page. No User Creation. Only transfer of money between
    multiple users.
    
-- 
+
 
 # Tech Stack
 **FRONT END**: HTML, CSS, JavaScript, Bootstrap
